@@ -7,6 +7,6 @@ Learning git and github
 
 - 🔭 I’m currently working on **AI Text to 3D room generator**
 
-- 🌱 I’m currently learning **Java, Spring framework, MySQL, Postgresql,Docker**
+- 🌱 I’m currently learning **Java, Spring framework, MySQL, Postgresql, Docker**
 
 - 📫 How to reach me **vishnu25@gmail.com**
