@@ -1,7 +1,7 @@
 # HelloWorld
 Learning git and github
 
-![alter text](https://avatars.githubusercontent.com/u/124077105?v=4)
+![alter text](https://media.istockphoto.com/id/1386179512/photo/computer-hacker-stealing-data-from-a-laptop.jpg?s=612x612&w=0&k=20&c=uaPBMvpmnqgulWYWnHqgEqec3OWwwCjv7k9D_VAeDV0=)
 
 <h1 align="center">Hi 👋, I'm Vishnu Kumar K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
