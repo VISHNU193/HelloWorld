@@ -1,6 +1,7 @@
 # HelloWorld
 Learning git and github
 
+![alter text](https://avatars.githubusercontent.com/u/124077105?v=4)
 
 <h1 align="center">Hi 👋, I'm Vishnu Kumar K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
